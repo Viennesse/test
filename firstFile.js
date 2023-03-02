@@ -3,3 +3,4 @@ console.log("pierwszy plik")
 // Druga commit
 //Trzecia wersja
 //Wersja czwarta
+//Fetch
